@@ -1,7 +1,7 @@
 ## Salve salve, I'm João Alencar 🤙
--  🏭Ariba consultant with 5 years of experience
--  💻Junior dev studying and seeking experience to improve more every day
-- 🏎️vGearhed and technology lover
+-  🏭 Ariba consultant with 5 years of experience
+-  💻 Junior dev studying and seeking experience to improve more every day
+-  🏎️ Gearhed and technology lover
 
 ## How to contact me
 [![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](pedro_joao09@hotmail.com)
